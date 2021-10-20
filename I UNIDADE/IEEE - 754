@@ -2,4 +2,10 @@ INSTITUTE OF ELETRICAL AND ELETRONICS ENGINEERS (IEEE)
 
 NORMA IEEE - 754: Standart for Flutuant-Point Arithmetic
 
-Operações em ponto flutuante com resultados idênticos em todas as máquinas
+OBJETIVO: Padronizar as opereções com ponto flutuante nos computadores universalmente
+
+NECESSIDADE: Com a criação dos computadores, cada computador tinha sua propria forma 
+de processar operações com ponto flutuante, por isso, cada software seria limitado a 
+um computador, por causa disso, estabeleceu-se um padrão para que fosse possível que
+todos os computadores rodassem programas sem grandes diferenças.
+
